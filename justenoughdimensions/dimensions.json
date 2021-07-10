@@ -1,0 +1,17 @@
+{
+  "dimensions": [
+    {
+      "dim": 9,
+      "dimensiontype": {
+        "id": 9,
+        "name": "Test dim 9",
+        "suffix": "_dim9",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "void"
+      }
+    }
+  ]
+}

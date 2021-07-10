@@ -1,0 +1,17 @@
+{
+    "rewards": [
+        {
+            "type": "item",
+            "name": "minecraft:spawn_egg",
+            "damage": 0,
+            "count": 1,
+            "nbt": "{display:{Name:\"投票引き換え券\",Lore:[\"Spawn地点で引き換えよう！\"]},ench:[{id:21s,lvl:1s}]}"
+        },
+        {
+            "type": "chat",
+            "message": "[\"\",{\"text\":\"@PLAYER@\",\"color\":\"yellow\"},{\"text\":\"が\",\"color\":\"yellow\"},{\"text\":\"引き換え券\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"§cスポーンで生活に役立つグッズと交換しよう\"}},{\"text\":\"をゲット！\",\"color\":\"yellow\"}]",
+            "broadcast": true,
+            "tellraw": true
+        }
+    ]
+}
